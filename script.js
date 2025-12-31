@@ -1,3 +1,3 @@
 function sayHello() {
-    alert("Сәлем!");
+    alert("Hi man ");
 }
